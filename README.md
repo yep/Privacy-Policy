@@ -1,4 +1,4 @@
-# No Data Is Stored
+# No Data is Stored
 
 No personal information is stored or shared with anyone.
 
